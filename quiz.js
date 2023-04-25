@@ -8,4 +8,4 @@ function randomQuestion(num) {
   }
   console.log(questions);
 }
-randomQuestion(10000);
+randomQuestion(1000);
