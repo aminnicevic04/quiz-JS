@@ -1,7 +1,7 @@
 const questions = [
   {
     question: "Eighteen thousandths, written as a decimal, is:",
-    answers: ["0.0018", "0.018", "0.18", "18"],
+    answers: ["0.0018", "0.018", "0.181", "18"],
     correct_answer: 0,
   },
   {
